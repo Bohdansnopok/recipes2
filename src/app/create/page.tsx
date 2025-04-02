@@ -53,7 +53,7 @@ export default function Create() {
                         <textarea placeholder="Write your description about this recipe" className="block min-h-[144px] mt-6 w-full border-2 border-black rounded-[15px] py-5 px-8 placeholder:text-black" />
                     </div>
 
-                    <div className="mt-[60px] flex justify-end w-full"><button type="submit" className="yellowBtn">Create Recipe</button></div>
+                    <div className="mt-[60px] flex justify-end w-full"><button type="submit" className="yellowBtn px-21">Create Recipe</button></div>
                 </form>
             </div>
         </section>
